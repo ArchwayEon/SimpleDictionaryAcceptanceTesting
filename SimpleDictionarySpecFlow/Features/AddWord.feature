@@ -1,7 +1,5 @@
 ﻿Feature: Add Word
-	As a student 
-	I want to add a word and its meaning 
-	so that I can get smart.
+As a student, I want to add a word and its meaning, so that I can get smart.
 
 
 Background: 
